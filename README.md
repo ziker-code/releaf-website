@@ -1,10 +1,14 @@
 # 🌿 Releaf - Sustainable Products Marketplace
 
+Halo gais! 
+
+Ini adalah projek pertama aku buat website with antigravity lol :p
+
 Releaf adalah platform marketplace untuk produk-produk ramah lingkungan dan berkelanjutan.
 
 ## 🚀 Cara Menjalankan Projek
 
-### Prasyarat
+### Syaratnya adalah kalian harus ada:
 - [Node.js](https://nodejs.org/) (versi 18 atau lebih baru)
 - npm (sudah termasuk dengan Node.js)
 
@@ -55,3 +59,7 @@ releaf/
 ## 📝 License
 
 MIT License
+
+---
+
+If you have any suggestions for me please let me know :D
