@@ -1,0 +1,11 @@
+{
+  "name": "releaf-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "drizzle-orm": "^0.45.1"
+  }
+}
